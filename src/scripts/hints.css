@@ -2,9 +2,9 @@ span[vimbhint^='label']{
     background-color:#fff;
     border:1px solid #444;
     color:#000;
-    font:bold .8em monospace;
+    font:bold 2em monospace;
     margin:0;
-    opacity:0.7;
+    opacity:1;
     padding:0px 1px;
     position:fixed !important;
     z-index:225000
